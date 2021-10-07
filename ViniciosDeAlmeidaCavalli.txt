@@ -1,0 +1,8 @@
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre Vinicios de Almeida Cavalli
+
+1. Vinicios de Almeida Cavalli;
+2. Sou um apaixonado por tecnologia e eterno aprendiz;
+3. Meu relacionamento com TI se faz na imerção do trabalho com os sistemas e acompanhamento do progresso geral;
+
